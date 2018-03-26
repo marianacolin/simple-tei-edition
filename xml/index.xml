@@ -6,7 +6,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Edition of Dickinson Poem "The Sea of Sunset"</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication information</p>
@@ -18,7 +18,23 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <div>
+           <lg type="stanza"></lg>
+           <l>This is the land the sunset washes,</l>
+           <l>These are the banks of the Yellow Sea;</l>
+           <l>Where it rose, or whither it rushes,</l>
+           <l>These are the western mystery!</l>
+           
+           <lg type="stanza"></lg>
+           <l> Night after night her purple traffic</l>
+           <l>Strews the landing with opal bales;</l>
+           <l>Merchantmen poise upon horizons</l>
+           <l>Dip, and vanish with fairy sails</l>
+         </div>
+         <div>
+           <lg type="stanza"></lg>
+           
+         </div>
       </body>
   </text>
 </TEI>
